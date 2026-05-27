@@ -1,6 +1,6 @@
 import Carousel from "./Carousel";
 
-import pastries from "../../data/pastries";
+import pastries from "./../../data/pastries";
 
 import { useTranslation } from "react-i18next";
 

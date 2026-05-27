@@ -1,6 +1,6 @@
 import Carousel from "./Carousel";
 
-import laminated from "../../data/laminated";
+import laminated from "./../../data/laminated";
 
 import { useTranslation } from "react-i18next";
 

@@ -1,6 +1,6 @@
 import Carousel from "./Carousel";
 
-import pasta from "../../data/pasta";
+import pasta from "./../../data/pasta";
 
 import { useTranslation } from "react-i18next";
 

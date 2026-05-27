@@ -2,7 +2,7 @@ import Alfajores from "../assets/img/pasteleria/Alfajores1.jpg";
 import AlfajoresTwo from "../assets/img/pasteleria/Alfajores2.jpg";
 
 import CheescakeOne from "../assets/img/pasteleria/Cheescake.jpg";
-import CheescakeTwo from "../assets/img/pasteleria/Cheescake2.jpg";
+import CheescakeTwo from "../assets/img/pasteleria/cheescake2.jpg";
 
 import muffinCacao from "../assets/img/pasteleria/muffinCacao.jpg";
 

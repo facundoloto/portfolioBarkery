@@ -1,5 +1,5 @@
-import panDeCampo from "../assets/img/bread/PanDeCampo.jpg";
-import panDeCampoTwo from "../assets/img/bread/PanDeCampo1.jpg";
+import panDeCampo from "../assets/img/bread/panDeCampo.jpg";
+import panDeCampoTwo from "../assets/img/bread/panDeCampo1.jpg";
 import MigaPanDeCampo from "../assets/img/bread/MigaPanDeCampo.jpg";
 import PanDeCenteno from "../assets/img/bread/PanDeCenteno.jpg";
 
