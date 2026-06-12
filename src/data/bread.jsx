@@ -2,6 +2,9 @@ import panDeCampo from "../assets/img/bread/panDeCampo.jpg";
 import panDeCampoTwo from "../assets/img/bread/panDeCampo1.jpg";
 import MigaPanDeCampo from "../assets/img/bread/MigaPanDeCampo.jpg";
 import PanDeCenteno from "../assets/img/bread/PanDeCenteno.jpg";
+import PanDeCampoThree from "../assets/img/bread/PanDeCampo2.jpg"
+import PanBrioche from "../assets/img/bread/PanBrioche.jpg";
+import PanBriocheTwo from "../assets/img/bread/PanBrioche2.jpg";
 
 const breads = [
   {
@@ -18,6 +21,7 @@ const breads = [
     images: [
       panDeCampo,
       panDeCampoTwo,
+      PanDeCampoThree,
       MigaPanDeCampo,
     ],
   },
@@ -35,6 +39,22 @@ const breads = [
 
     images:[
      PanDeCenteno
+    ]
+  },
+   {
+    title: {
+      en: "hamburger bun",
+      es: "Pan Brioche hamburgesa",
+    },
+
+    description: {
+      en: "",
+      es: "",
+    },
+
+    images:[
+     PanBrioche,
+     PanBriocheTwo
     ]
   },
 ];

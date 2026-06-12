@@ -1,7 +1,10 @@
 import MedialunasOne from "../assets/img/laminados/medialunas1.jpeg";
 import MedialunasTwo from "../assets/img/laminados/medialunas2.jpeg";
 import MedialunasThree from "../assets/img/laminados/medialunas3.jpg";
-
+import FacturasOne from "../assets/img/laminados/facturas.jpg";
+import FacturasTwo from "../assets/img/laminados/facturas2.jpg";
+import PanChocoOne from "../assets/img/laminados/PanDeChoco4.jpg";
+import PanChocoTwo from "../assets/img/laminados/PanDeChoco3.jpg";
 
 const laminated = [
   {
@@ -19,6 +22,38 @@ const laminated = [
       MedialunasOne,
       MedialunasTwo,
       MedialunasThree
+    ]
+  },
+  {
+    title: {
+      en: "Pain Au Chocolat",
+      es: "Pain Au Chocolat",
+    },
+
+    description: {
+      en: "Pain au chocolat is part of the typical French Viennoiserie; it is made with croissant dough and cocoa paste, creating that two-tone chocolate color.",
+      es: "Pain au chocolat es parte de la Viennoiserie tipica de francia, esta echo con masa de croissant y masa de cacao haciendo ese bicolor chocolate.",
+    },
+
+    images: [
+      PanChocoOne,
+      PanChocoTwo,
+    ]
+  },
+    {
+    title: {
+      en: "Facturas Argentinian",
+      es: "Facturas",
+    },
+
+    description: {
+      en: "Typical pastries laminated argentinian with Custard and quince.",
+      es: "Facturas clasicas argentinas con membrillo y pastelera.",
+    },
+
+    images: [
+      FacturasOne,
+      FacturasTwo,
     ]
   },
 ];
