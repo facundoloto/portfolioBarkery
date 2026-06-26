@@ -6,8 +6,8 @@ import migaPanDeCampo from "../assets/img/bread/MigaPanDeCampo.jpg";
 
 import panDeCenteno from "../assets/img/bread/PanDeCenteno.jpg";
 
-import panBrioche from "../assets/img/bread/PanBrioche.jpg";
-import panBriocheTwo from "../assets/img/bread/PanBrioche2.jpg";
+import panBrioche from "../assets/img/bread/Brioche.jpg";
+import panBriocheTwo from "../assets/img/bread/Brioche2.jpg";
 
 const breads = [
   {
