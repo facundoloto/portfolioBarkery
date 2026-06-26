@@ -1,10 +1,12 @@
-import MedialunasOne from "../assets/img/laminados/medialunas1.jpeg";
-import MedialunasTwo from "../assets/img/laminados/medialunas2.jpeg";
-import MedialunasThree from "../assets/img/laminados/medialunas3.jpg";
-import FacturasOne from "../assets/img/laminados/facturas.jpg";
-import FacturasTwo from "../assets/img/laminados/facturas2.jpg";
-import PanChocoOne from "../assets/img/laminados/PanDeChoco4.jpg";
-import PanChocoTwo from "../assets/img/laminados/PanDeChoco3.jpg";
+import medialunas1 from "../assets/img/laminados/medialunas1.jpeg";
+import medialunas2 from "../assets/img/laminados/medialunas2.jpeg";
+import medialunas3 from "../assets/img/laminados/medialunas3.jpg";
+
+import facturas1 from "../assets/img/laminados/facturas.jpg";
+import facturas2 from "../assets/img/laminados/facturas2.jpg";
+
+import panDeChoco1 from "../assets/img/laminados/PanDeChoco4.jpg";
+import panDeChoco2 from "../assets/img/laminados/PanDeChoco3.jpg";
 
 const laminated = [
   {
@@ -19,9 +21,9 @@ const laminated = [
     },
 
     images: [
-      MedialunasOne,
-      MedialunasTwo,
-      MedialunasThree
+      medialunas1,
+      medialunas2,
+      medialunas3
     ]
   },
   {
@@ -36,8 +38,8 @@ const laminated = [
     },
 
     images: [
-      PanChocoOne,
-      PanChocoTwo,
+      panDeChoco1,
+      panDeChoco2,
     ]
   },
     {
@@ -52,8 +54,8 @@ const laminated = [
     },
 
     images: [
-      FacturasOne,
-      FacturasTwo,
+      facturas1,
+      facturas2,
     ]
   },
 ];

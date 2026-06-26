@@ -1,10 +1,13 @@
 import panDeCampo from "../assets/img/bread/panDeCampo.jpg";
 import panDeCampoTwo from "../assets/img/bread/panDeCampo1.jpg";
-import MigaPanDeCampo from "../assets/img/bread/MigaPanDeCampo.jpg";
-import PanDeCenteno from "../assets/img/bread/PanDeCenteno.jpg";
-import PanDeCampoThree from "../assets/img/bread/PanDeCampo2.jpg"
-import PanBrioche from "../assets/img/bread/PanBrioche.jpg";
-import PanBriocheTwo from "../assets/img/bread/PanBrioche2.jpg";
+import panDeCampoThree from "../assets/img/bread/panDeCampo2.jpg";
+
+import migaPanDeCampo from "../assets/img/bread/MigaPanDeCampo.jpg";
+
+import panDeCenteno from "../assets/img/bread/PanDeCenteno.jpg";
+
+import panBrioche from "../assets/img/bread/PanBrioche.jpg";
+import panBriocheTwo from "../assets/img/bread/PanBrioche2.jpg";
 
 const breads = [
   {
@@ -21,8 +24,8 @@ const breads = [
     images: [
       panDeCampo,
       panDeCampoTwo,
-      PanDeCampoThree,
-      MigaPanDeCampo,
+      panDeCampoThree,
+      migaPanDeCampo,
     ],
   },
 
@@ -38,7 +41,7 @@ const breads = [
     },
 
     images:[
-     PanDeCenteno
+     panDeCenteno
     ]
   },
    {
@@ -53,8 +56,8 @@ const breads = [
     },
 
     images:[
-     PanBrioche,
-     PanBriocheTwo
+     panBrioche,
+     panBriocheTwo
     ]
   },
 ];
