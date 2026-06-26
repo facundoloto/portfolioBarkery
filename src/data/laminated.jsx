@@ -6,7 +6,7 @@ import facturas1 from "../assets/img/laminados/facturas.jpg";
 import facturas2 from "../assets/img/laminados/facturas2.jpg";
 
 import panDeChoco1 from "../assets/img/laminados/PanDeChoco4.jpg";
-import panDeChoco2 from "../assets/img/laminados/PanDeChoco3.jpg";
+import panDeChoco2 from "../assets/img/laminados/panDeChoco3.jpg";
 
 const laminated = [
   {
