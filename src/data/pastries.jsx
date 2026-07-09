@@ -9,6 +9,8 @@ import muffinCacao from "../assets/img/pasteleria/muffinCacao.jpg";
 import tiramisu from "../assets/img/pasteleria/tiramisu.jpg";
 
 import PastaFlora from "../assets/img/pasteleria/PastaFlora.jpg";
+import PastaFloraMembrillo from "../assets/img/pasteleria/pastafloraMembrillo.jpg";
+
 
 const pastries = [
   {
@@ -84,12 +86,13 @@ const pastries = [
     },
 
     description: {
-      en: "Traditional tart filled with sweet potato.",
-      es: "Tarta tradicional rellena con dulce de batata.",
+      en: "Traditional tart filled with sweet potato and Custard.",
+      es: "Tarta tradicional rellena con dulce de batata y membrillo.",
     },
 
     images: [
       PastaFlora,
+      PastaFloraMembrillo
     ],
   },
 ];

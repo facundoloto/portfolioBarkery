@@ -1,9 +1,28 @@
 import RaviolesOne from "../assets/img/pastas/pastas.jpg";
 import RaviolesTwo from "../assets/img/pastas/raviolesJyQ.jpg";
 import RaviolesThree from "../assets/img/pastas/Sorrentinos.jpg";
+import RaviolesFour from "../assets/img/pastas/pastasRellenasNegra.jpg";
+import RaviolesFive from "../assets/img/pastas/pastaRellenaNegra2.jpg";
+import Noodles from "../assets/img/pastas/FideosBicolor.jpg";
+
 
 
 const pasta = [
+    {
+    title: {
+      en: "Fresh Noodles",
+      es: "Fideos caseros al huevo",
+    },
+
+    description: {
+      en: "",
+      es: "Fideos caseros al huevo bi-color con curcuma y tinta de calamar.",
+    },
+
+    images:[
+      Noodles,
+    ]
+  },
   {
     title: {
       en: "Fresh Ravioli",
@@ -20,7 +39,22 @@ const pasta = [
       RaviolesTwo
     ]
   },
+{
+    title: {
+      en: "Ravioli with Colour",
+      es: "Ravioles Bi-Color",
+    },
 
+    description: {
+      en: "Homemade ravioli with colour fillings with atun,muzarella and ricota.",
+      es: "Ravioles caseros con masa Bi-Color con relleno de aut, muzarella y ricota.",
+    },
+
+    images:[
+      RaviolesFour,
+      RaviolesFive
+    ]
+  },
   {
     title: {
       en: "Sorrentinos ",
