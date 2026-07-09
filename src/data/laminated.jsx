@@ -1,7 +1,7 @@
 import medialunas1 from "../assets/img/laminados/medialunas1.jpeg";
 import medialunas2 from "../assets/img/laminados/medialunas2.jpeg";
 import medialunas3 from "../assets/img/laminados/medialunas3.jpg";
-import medialunas4 from "../assets/img/laminados/medialunasTres.jpg";
+import medialunas4 from "../assets/img/laminados/MedialunasTres.jpg";
 
 
 import facturas1 from "../assets/img/laminados/facturas.jpg";
