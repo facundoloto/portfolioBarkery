@@ -8,7 +8,7 @@ import panDeCenteno from "../assets/img/bread/PanDeCenteno.jpg";
 
 import panBrioche from "../assets/img/bread/Brioche.jpg";
 import panBriocheTwo from "../assets/img/bread/Brioche2.jpg";
-import panBriocheTrhee from "../assets/img/bread/Brioche3.jpg";
+import panBriocheThree from "../assets/img/bread/Brioche3.jpg";
 
 
 const breads = [
@@ -60,7 +60,7 @@ const breads = [
     images:[
      panBrioche,
      panBriocheTwo,
-     panBriocheTrhee
+     panBriocheThree
     ]
   },
 ];
